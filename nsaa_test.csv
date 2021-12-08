@@ -1,0 +1,106 @@
+﻿Row,STUDYID,DOMAIN,USUBJID,RSSEQ,RSTESTCD,RSTEST,RSCAT,RSORRES,RSORRESU,RSSTRESC,RSSTRESN,RSSTRESU,RSBLFL,RSEVAL,VISITNUM,VISIT,RSDTC,RSDY
+1,1001,RS,1001-001,1,NSAA101,NSAA1-Stand,NSAA,Stands still but with some degree of compensation (e.g. on toes or with legs abducted or with bottom stuck out) for minimum count of 3 seconds,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+2,1001,RS,1001-001,2,NSAA102,NSAA1-Walk,NSAA,Walks with heel-toe or flat-footed gait pattern,,2,2,,Y,INVESTIGATOR,1,Visit 1,41039,1
+3,1001,RS,1001-001,3,NSAA103,NSAA1-Stand Up From Chair,NSAA,With help from thighs or push on chair or prone turn,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+4,1001,RS,1001-001,4,NSAA104,NSAA1-Stand on One Leg - Right,NSAA,Unable,,0,0,,Y,INVESTIGATOR,1,Visit 1,41039,1
+5,1001,RS,1001-001,5,NSAA105,NSAA1-Stand on One Leg - Left,NSAA,Unable,,0,0,,Y,INVESTIGATOR,1,Visit 1,41039,1
+6,1001,RS,1001-001,6,NSAA106,NSAA1-Climb Box Step - Right,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+7,1001,RS,1001-001,7,NSAA107,NSAA1-Climb Box Step - Left,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+8,1001,RS,1001-001,8,NSAA108,NSAA1-Descend Box Step - Right,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+9,1001,RS,1001-001,9,NSAA109,NSAA1-Descend Box Step - Left,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+10,1001,RS,1001-001,10,NSAA110,NSAA1-Gets to Sitting,NSAA,Starts in supine-may use one hand to assist,,2,2,,Y,INVESTIGATOR,1,Visit 1,41039,1
+11,1001,RS,1001-001,11,NSAA111,NSAA1-Rise From Floor,NSAA,Gowers’ evident,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+12,1001,RS,1001-001,12,NSAA111A,NSAA1-Rise From Floor Time,NSAA,12.5,sec,12.5,12.5,sec,Y,INVESTIGATOR,1,Visit 1,41039,1
+13,1001,RS,1001-001,13,NSAA112,NSAA1-Lifts Head,NSAA,"In supine, head must be lifted in mid-line. Chin moves towards chest",,2,2,,Y,INVESTIGATOR,1,Visit 1,41039,1
+14,1001,RS,1001-001,14,NSAA113,NSAA1-Stands on Heels,NSAA,Flexes hip and only raises forefoot,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+15,1001,RS,1001-001,15,NSAA114,NSAA1-Jump,NSAA,Unable,,0,0,,Y,INVESTIGATOR,1,Visit 1,41039,1
+16,1001,RS,1001-001,16,NSAA115,NSAA1-Hop Right Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,1,Visit 1,41039,1
+17,1001,RS,1001-001,17,NSAA116,NSAA1-Hop Left Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,1,Visit 1,41039,1
+18,1001,RS,1001-001,18,NSAA117,NSAA1-Run (10m),NSAA,“Duchenne jog”,,1,1,,Y,INVESTIGATOR,1,Visit 1,41039,1
+19,1001,RS,1001-001,19,NSAA117A,"NSAA1-Run (10m)
+Time",NSAA,40.6,sec,40.6,40.6,sec,Y,INVESTIGATOR,1,Visit 1,41039,1
+20,1001,RS,1001-001,20,NSAA118,NSAA1-Total,NSAA,15,,15,20,,Y,INVESTIGATOR,1,Visit 1,41039,1
+1,1001,RS,1001-001,1,NSAA101,NSAA1-Stand,NSAA,Stands still but with some degree of compensation (e.g. on toes or with legs abducted or with bottom stuck out) for minimum count of 3 seconds,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+2,1001,RS,1001-001,2,NSAA102,NSAA1-Walk,NSAA,Walks with heel-toe or flat-footed gait pattern,,2,2,,Y,INVESTIGATOR,2,Visit 2,41039,2
+3,1001,RS,1001-001,3,NSAA103,NSAA1-Stand Up From Chair,NSAA,With help from thighs or push on chair or prone turn,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+4,1001,RS,1001-001,4,NSAA104,NSAA1-Stand on One Leg - Right,NSAA,Unable,,0,0,,Y,INVESTIGATOR,2,Visit 2,41039,2
+5,1001,RS,1001-001,5,NSAA105,NSAA1-Stand on One Leg - Left,NSAA,Unable,,0,0,,Y,INVESTIGATOR,2,Visit 2,41039,2
+6,1001,RS,1001-001,6,NSAA106,NSAA1-Climb Box Step - Right,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+7,1001,RS,1001-001,7,NSAA107,NSAA1-Climb Box Step - Left,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+8,1001,RS,1001-001,8,NSAA108,NSAA1-Descend Box Step - Right,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+9,1001,RS,1001-001,9,NSAA109,NSAA1-Descend Box Step - Left,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+10,1001,RS,1001-001,10,NSAA110,NSAA1-Gets to Sitting,NSAA,Starts in supine-may use one hand to assist,,2,2,,Y,INVESTIGATOR,2,Visit 2,41039,2
+11,1001,RS,1001-001,11,NSAA111,NSAA1-Rise From Floor,NSAA,Gowers’ evident,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+12,1001,RS,1001-001,12,NSAA111A,NSAA1-Rise From Floor Time,NSAA,12.5,sec,12.5,12.5,sec,Y,INVESTIGATOR,2,Visit 2,41039,2
+13,1001,RS,1001-001,13,NSAA112,NSAA1-Lifts Head,NSAA,"In supine, head must be lifted in mid-line. Chin moves towards chest",,2,2,,Y,INVESTIGATOR,2,Visit 2,41039,2
+14,1001,RS,1001-001,14,NSAA113,NSAA1-Stands on Heels,NSAA,Flexes hip and only raises forefoot,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+15,1001,RS,1001-001,15,NSAA114,NSAA1-Jump,NSAA,Unable,,0,0,,Y,INVESTIGATOR,2,Visit 2,41039,2
+16,1001,RS,1001-001,16,NSAA115,NSAA1-Hop Right Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,2,Visit 2,41039,2
+17,1001,RS,1001-001,17,NSAA116,NSAA1-Hop Left Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,2,Visit 2,41039,2
+18,1001,RS,1001-001,18,NSAA117,NSAA1-Run (10m),NSAA,“Duchenne jog”,,1,1,,Y,INVESTIGATOR,2,Visit 2,41039,2
+19,1001,RS,1001-001,19,NSAA117A,"NSAA1-Run (10m)
+Time",NSAA,40.6,sec,40.6,40.6,sec,Y,INVESTIGATOR,2,Visit 2,41039,2
+20,1001,RS,1001-001,20,NSAA118,NSAA1-Total,NSAA,18,,15,15,,Y,INVESTIGATOR,2,Visit 2,41039,2
+1,1001,RS,1001-001,1,NSAA101,NSAA1-Stand,NSAA,Stands still but with some degree of compensation (e.g. on toes or with legs abducted or with bottom stuck out) for minimum count of 3 seconds,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+2,1001,RS,1001-001,2,NSAA102,NSAA1-Walk,NSAA,Walks with heel-toe or flat-footed gait pattern,,2,2,,Y,INVESTIGATOR,3,Visit 3,41039,3
+3,1001,RS,1001-001,3,NSAA103,NSAA1-Stand Up From Chair,NSAA,With help from thighs or push on chair or prone turn,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+4,1001,RS,1001-001,4,NSAA104,NSAA1-Stand on One Leg - Right,NSAA,Unable,,0,0,,Y,INVESTIGATOR,3,Visit 3,41039,3
+5,1001,RS,1001-001,5,NSAA105,NSAA1-Stand on One Leg - Left,NSAA,Unable,,0,0,,Y,INVESTIGATOR,3,Visit 3,41039,3
+6,1001,RS,1001-001,6,NSAA106,NSAA1-Climb Box Step - Right,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+7,1001,RS,1001-001,7,NSAA107,NSAA1-Climb Box Step - Left,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+8,1001,RS,1001-001,8,NSAA108,NSAA1-Descend Box Step - Right,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+9,1001,RS,1001-001,9,NSAA109,NSAA1-Descend Box Step - Left,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+10,1001,RS,1001-001,10,NSAA110,NSAA1-Gets to Sitting,NSAA,Starts in supine-may use one hand to assist,,2,2,,Y,INVESTIGATOR,3,Visit 3,41039,3
+11,1001,RS,1001-001,11,NSAA111,NSAA1-Rise From Floor,NSAA,Gowers’ evident,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+12,1001,RS,1001-001,12,NSAA111A,NSAA1-Rise From Floor Time,NSAA,12.5,sec,12.5,12.5,sec,Y,INVESTIGATOR,3,Visit 3,41039,3
+13,1001,RS,1001-001,13,NSAA112,NSAA1-Lifts Head,NSAA,"In supine, head must be lifted in mid-line. Chin moves towards chest",,2,2,,Y,INVESTIGATOR,3,Visit 3,41039,3
+14,1001,RS,1001-001,14,NSAA113,NSAA1-Stands on Heels,NSAA,Flexes hip and only raises forefoot,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+15,1001,RS,1001-001,15,NSAA114,NSAA1-Jump,NSAA,Unable,,0,0,,Y,INVESTIGATOR,3,Visit 3,41039,3
+16,1001,RS,1001-001,16,NSAA115,NSAA1-Hop Right Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,3,Visit 3,41039,3
+17,1001,RS,1001-001,17,NSAA116,NSAA1-Hop Left Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,3,Visit 3,41039,3
+18,1001,RS,1001-001,18,NSAA117,NSAA1-Run (10m),NSAA,“Duchenne jog”,,1,1,,Y,INVESTIGATOR,3,Visit 3,41039,3
+19,1001,RS,1001-001,19,NSAA117A,"NSAA1-Run (10m)
+Time",NSAA,40.6,sec,40.6,40.6,sec,Y,INVESTIGATOR,3,Visit 3,41039,3
+20,1001,RS,1001-001,20,NSAA118,NSAA1-Total,NSAA,13,,15,18,,Y,INVESTIGATOR,3,Visit 3,41039,3
+1,1001,RS,1001-001,1,NSAA101,NSAA1-Stand,NSAA,Stands still but with some degree of compensation (e.g. on toes or with legs abducted or with bottom stuck out) for minimum count of 3 seconds,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+2,1001,RS,1001-001,2,NSAA102,NSAA1-Walk,NSAA,Walks with heel-toe or flat-footed gait pattern,,2,2,,Y,INVESTIGATOR,4,Visit 4,41039,4
+3,1001,RS,1001-001,3,NSAA103,NSAA1-Stand Up From Chair,NSAA,With help from thighs or push on chair or prone turn,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+4,1001,RS,1001-001,4,NSAA104,NSAA1-Stand on One Leg - Right,NSAA,Unable,,0,0,,Y,INVESTIGATOR,4,Visit 4,41039,4
+5,1001,RS,1001-001,5,NSAA105,NSAA1-Stand on One Leg - Left,NSAA,Unable,,0,0,,Y,INVESTIGATOR,4,Visit 4,41039,4
+6,1001,RS,1001-001,6,NSAA106,NSAA1-Climb Box Step - Right,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+7,1001,RS,1001-001,7,NSAA107,NSAA1-Climb Box Step - Left,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+8,1001,RS,1001-001,8,NSAA108,NSAA1-Descend Box Step - Right,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+9,1001,RS,1001-001,9,NSAA109,NSAA1-Descend Box Step - Left,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+10,1001,RS,1001-001,10,NSAA110,NSAA1-Gets to Sitting,NSAA,Starts in supine-may use one hand to assist,,2,2,,Y,INVESTIGATOR,4,Visit 4,41039,4
+11,1001,RS,1001-001,11,NSAA111,NSAA1-Rise From Floor,NSAA,Gowers’ evident,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+12,1001,RS,1001-001,12,NSAA111A,NSAA1-Rise From Floor Time,NSAA,12.5,sec,12.5,12.5,sec,Y,INVESTIGATOR,4,Visit 4,41039,4
+13,1001,RS,1001-001,13,NSAA112,NSAA1-Lifts Head,NSAA,"In supine, head must be lifted in mid-line. Chin moves towards chest",,2,2,,Y,INVESTIGATOR,4,Visit 4,41039,4
+14,1001,RS,1001-001,14,NSAA113,NSAA1-Stands on Heels,NSAA,Flexes hip and only raises forefoot,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+15,1001,RS,1001-001,15,NSAA114,NSAA1-Jump,NSAA,Unable,,0,0,,Y,INVESTIGATOR,4,Visit 4,41039,4
+16,1001,RS,1001-001,16,NSAA115,NSAA1-Hop Right Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,4,Visit 4,41039,4
+17,1001,RS,1001-001,17,NSAA116,NSAA1-Hop Left Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,4,Visit 4,41039,4
+18,1001,RS,1001-001,18,NSAA117,NSAA1-Run (10m),NSAA,“Duchenne jog”,,1,1,,Y,INVESTIGATOR,4,Visit 4,41039,4
+19,1001,RS,1001-001,19,NSAA117A,"NSAA1-Run (10m)
+Time",NSAA,40.6,sec,40.6,40.6,sec,Y,INVESTIGATOR,4,Visit 4,41039,4
+20,1001,RS,1001-001,20,NSAA118,NSAA1-Total,NSAA,15,,15,13,,Y,INVESTIGATOR,4,Visit 4,41039,4
+1,1001,RS,1001-001,1,NSAA101,NSAA1-Stand,NSAA,Stands still but with some degree of compensation (e.g. on toes or with legs abducted or with bottom stuck out) for minimum count of 3 seconds,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+2,1001,RS,1001-001,2,NSAA102,NSAA1-Walk,NSAA,Walks with heel-toe or flat-footed gait pattern,,2,2,,Y,INVESTIGATOR,5,Visit 5,41039,5
+3,1001,RS,1001-001,3,NSAA103,NSAA1-Stand Up From Chair,NSAA,With help from thighs or push on chair or prone turn,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+4,1001,RS,1001-001,4,NSAA104,NSAA1-Stand on One Leg - Right,NSAA,Unable,,0,0,,Y,INVESTIGATOR,5,Visit 5,41039,5
+5,1001,RS,1001-001,5,NSAA105,NSAA1-Stand on One Leg - Left,NSAA,Unable,,0,0,,Y,INVESTIGATOR,5,Visit 5,41039,5
+6,1001,RS,1001-001,6,NSAA106,NSAA1-Climb Box Step - Right,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+7,1001,RS,1001-001,7,NSAA107,NSAA1-Climb Box Step - Left,NSAA,Goes up sideways or needs support,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+8,1001,RS,1001-001,8,NSAA108,NSAA1-Descend Box Step - Right,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+9,1001,RS,1001-001,9,NSAA109,NSAA1-Descend Box Step - Left,NSAA,"Sideways, skips down or needs support",,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+10,1001,RS,1001-001,10,NSAA110,NSAA1-Gets to Sitting,NSAA,Starts in supine-may use one hand to assist,,2,2,,Y,INVESTIGATOR,5,Visit 5,41039,5
+11,1001,RS,1001-001,11,NSAA111,NSAA1-Rise From Floor,NSAA,Gowers’ evident,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+12,1001,RS,1001-001,12,NSAA111A,NSAA1-Rise From Floor Time,NSAA,12.5,sec,12.5,12.5,sec,Y,INVESTIGATOR,5,Visit 5,41039,5
+13,1001,RS,1001-001,13,NSAA112,NSAA1-Lifts Head,NSAA,"In supine, head must be lifted in mid-line. Chin moves towards chest",,2,2,,Y,INVESTIGATOR,5,Visit 5,41039,5
+14,1001,RS,1001-001,14,NSAA113,NSAA1-Stands on Heels,NSAA,Flexes hip and only raises forefoot,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+15,1001,RS,1001-001,15,NSAA114,NSAA1-Jump,NSAA,Unable,,0,0,,Y,INVESTIGATOR,5,Visit 5,41039,5
+16,1001,RS,1001-001,16,NSAA115,NSAA1-Hop Right Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,5,Visit 5,41039,5
+17,1001,RS,1001-001,17,NSAA116,NSAA1-Hop Left Leg,NSAA,Unable,,0,0,,Y,INVESTIGATOR,5,Visit 5,41039,5
+18,1001,RS,1001-001,18,NSAA117,NSAA1-Run (10m),NSAA,“Duchenne jog”,,1,1,,Y,INVESTIGATOR,5,Visit 5,41039,5
+19,1001,RS,1001-001,19,NSAA117A,"NSAA1-Run (10m)
+Time",NSAA,40.6,sec,40.6,40.6,sec,Y,INVESTIGATOR,5,Visit 5,41039,5
+20,1001,RS,1001-001,20,NSAA118,NSAA1-Total,NSAA,15,,15,11,,Y,INVESTIGATOR,5,Visit 5,41039,5
